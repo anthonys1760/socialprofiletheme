@@ -1,0 +1,71 @@
+body {
+  background: #333;
+  color: #fff;
+}
+
+.navbar {
+  border-bottom: #008ed6 3px solid;
+  opacity: 0.8;
+}
+
+.signup {
+  color: white;
+}
+
+.paragraph {
+  color: white;
+}
+
+#home-section {
+  background: url(https://drive.google.com/uc?export=download&id=1p4nOezEZd4MW_1NiLJ7PJSvv7FwRtcng);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
+
+#home-section .dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 700px;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+#home-section .home-inner {
+  padding-top: 120px;
+}
+
+.container {
+  color: white;
+}
+
+#home-section .card-form {
+  opacity: 0.8;
+}
+
+#home-section .fa fa-check {
+  color: #008ed6;
+  background: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.text-center {
+  color: #000;
+}
+
+.text {
+  color: black;
+}
+
+.textm {
+  color: black;
+  
+}
+
+.fluid {
+  float: left;
+}
+
